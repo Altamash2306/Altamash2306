@@ -13,7 +13,7 @@ Hi 👋 I'm **Altmash 2306**
 
 # 🌐 Socials  
 
-📧 Email: your-altamshshk2306@gmail.com  
+📧 Email: altamshshk2306@gmail.com  
 
 ---
 
