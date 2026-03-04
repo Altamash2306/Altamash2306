@@ -13,8 +13,7 @@ Hi 👋 I'm **Altmash 2306**
 
 # 🌐 Socials  
 
-📧 Email: your-email@example.com  
-📸 Instagram: https://instagram.com/your-username  
+📧 Email: your-altamshshk2306@gmail.com  
 
 ---
 
