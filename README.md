@@ -45,6 +45,8 @@ Hi 👋 I'm **Altmash 2306**
 
 ---
 
-# ✍️ Dev Quote  
+## ✍️ Dev Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+```text
+First, solve the problem.
+Then, write the code.
