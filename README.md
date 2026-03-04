@@ -14,6 +14,7 @@ Hi 👋 I'm **Altmash 2306**
 # 🌐 Socials  
 
 📧 Email: altamshshk2306@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/Altamashshaikh
 
 ---
 
