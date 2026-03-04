@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me  
+# 💫 About Me  
 
 Hi 👋 I'm **Altmash 2306**
 
@@ -15,7 +13,8 @@ Hi 👋 I'm **Altmash 2306**
 
 # 🌐 Socials  
 
-📧 Email: your-altamash2306@gmail.com 
+📧 Email: your-email@example.com  
+📸 Instagram: https://instagram.com/your-username  
 
 ---
 
@@ -50,16 +49,3 @@ Hi 👋 I'm **Altmash 2306**
 # ✍️ Dev Quote  
 
 > “First, solve the problem. Then, write the code.” – John Johnson
-**Altamash2306/Altamash2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
