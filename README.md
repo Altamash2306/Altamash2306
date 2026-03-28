@@ -54,8 +54,6 @@ Hi 👋 I'm **Altmash 2306**
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
 - ⚡ Fun fact: I'm comming to teen
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
@@ -102,7 +100,6 @@ Hi 👋 I'm **Altmash 2306**
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
-⭐️ From [saviomartin](https://github.com/saviomartin)
 
 
 Thankyou🎆
